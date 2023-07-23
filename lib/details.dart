@@ -67,7 +67,7 @@ class Details extends StatelessWidget {
                       Text(
                         '29°C',
                         style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.blue,
                           fontSize: 18,
                         ),
                       ),
